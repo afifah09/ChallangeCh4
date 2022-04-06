@@ -10,7 +10,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_width="match_parent"
-        android:layout_height="500dp"
+        android:layout_height="600dp"
         android:padding="30dp"
         android:orientation="vertical"
         android:gravity="center_horizontal"
@@ -60,6 +60,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/help_pass"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/akun"/>
     </LinearLayout>>
 
 </LinearLayout>
